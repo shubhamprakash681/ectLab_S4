@@ -1,0 +1,21 @@
+Circuit: * C:\11myDrive2\11 PROJECTS\cusat\s4\ectLab\astableMultivibrtr\am2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Jun 21 09:55:35 2021
+Total elapsed time: 0.157 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 45386
+traniter = 45377
+tranpoints = 11359
+accept = 8414
+rejected = 2945
+matrix size = 12
+fillins = 6
+solver = Normal
+Matrix Compiler1: 1.17 KB object code size  0.5/0.2/[0.1]
+Matrix Compiler2: 1.18 KB object code size  0.2/0.2/[0.1]
+
